@@ -1,3 +1,3 @@
-# best-repo-ever 2
+# best-repo-ever
 
-## and I mean ever 2
+## and I mean ever
